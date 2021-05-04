@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[price of Thrift Gold Chain : Rs. 17,373]]>
+    </line>
+    <line>
+      <![CDATA[price of Lucian Gold Chain : Rs. 28,480]]>
+    </line>
+    <line>
+      <![CDATA[price of Owen Gold Chain : Rs. 54,976]]>
+    </line>
+    <line>
+      <![CDATA[price of Kamal Gold Chain : Rs. 38,571]]>
+    </line>
+    <line>
+      <![CDATA[price of Gianna Gold Chain : Rs. 50,934]]>
+    </line>
+    <line>
+      <![CDATA[price of Sebestian Gold Chain : Rs. 84,321]]>
+    </line>
+    <line>
+      <![CDATA[price of Darrell Gold Chain : Rs. 81,479]]>
+    </line>
+    <line>
+      <![CDATA[price of Darian Gold Chain : Rs. 58,787]]>
+    </line>
+    <line>
+      <![CDATA[price of William Gold Chain : Rs. 1,37,661]]>
+    </line>
+    <line>
+      <![CDATA[price of Frail Trail Gold Chain : Rs. 31,106]]>
+    </line>
+    <line>
+      <![CDATA[price of Highway Gold Chain : Rs. 39,652]]>
+    </line>
+    <line>
+      <![CDATA[price of Cleo Gold Chain : Rs. 1,10,129]]>
+    </line>
+    <line>
+      <![CDATA[price of Sonia Gold Chain : Rs. 81,419]]>
+    </line>
+    <line>
+      <![CDATA[price of Dolores Gold Chain : Rs. 94,869]]>
+    </line>
+    <line>
+      <![CDATA[price of Isabella Gold Chain : Rs. 67,006]]>
+    </line>
+    <line>
+      <![CDATA[price of Victor Gold Chain : Rs. 81,479]]>
+    </line>
+    <line>
+      <![CDATA[price of Deepali Diamond Eng... : Rs. 27,921]]>
+    </line>
+    <line>
+      <![CDATA[price of Ross Diamond Ring : Rs. 17,548]]>
+    </line>
+    <line>
+      <![CDATA[price of Aaralyn Miracle Pla... : Rs. 12,461]]>
+    </line>
+    <line>
+      <![CDATA[price of Jasleen Kyra Gold Ring : Rs. 6,318]]>
+    </line>
+    <line>
+      <![CDATA[price of Yaksh Diamond Ring : Rs. 43,454]]>
+    </line>
+    <line>
+      <![CDATA[price of Maurice Diamond Ring : Rs. 30,786]]>
+    </line>
+    <line>
+      <![CDATA[price of Axel Cross Diamond ... : Rs. 15,850]]>
+    </line>
+    <line>
+      <![CDATA[price of Ronja Swarovski® Zi... : Rs. 11,048]]>
+    </line>
+    <line>
+      <![CDATA[price of Snuggled Up Diamond... : Rs. 10,938]]>
+    </line>
+    <line>
+      <![CDATA[price of Zitin Diamond Ring : Rs. 17,991]]>
+    </line>
+    <line>
+      <![CDATA[price of Cupidstruck Diamond... : Rs. 14,880]]>
+    </line>
+    <line>
+      <![CDATA[price of Heart N Soul Diamon... : Rs. 10,614]]>
+    </line>
+    <line>
+      <![CDATA[price of Neil Diamond Ring : Rs. 19,994]]>
+    </line>
+    <line>
+      <![CDATA[price of Albert Diamond Ring : Rs. 60,467]]>
+    </line>
+    <line>
+      <![CDATA[price of Kabir Diamond Ring : Rs. 19,990]]>
+    </line>
+    <line>
+      <![CDATA[price of Inverted Diamond Ring : Rs. 17,707]]>
+    </line>
+    <line>
+      <![CDATA[price of Deepali Diamond Eng... : Rs. 27,921]]>
+    </line>
+    <line>
+      <![CDATA[price of Leaflet Diamond Mul... : Rs. 8,337]]>
+    </line>
+    <line>
+      <![CDATA[price of Asterism Diamond Mu... : Rs. 17,495]]>
+    </line>
+    <line>
+      <![CDATA[price of Winterize Diamond M... : Rs. 17,337]]>
+    </line>
+    <line>
+      <![CDATA[price of Icy Hearts Diamond ... : Rs. 12,721]]>
+    </line>
+    <line>
+      <![CDATA[price of Entire Diamond Mult... : Rs. 9,975]]>
+    </line>
+    <line>
+      <![CDATA[price of Snowdrops Diamond M... : Rs. 11,021]]>
+    </line>
+    <line>
+      <![CDATA[price of Wand Diamond Multi ... : Rs. 10,431]]>
+    </line>
+    <line>
+      <![CDATA[price of Mizuki Diamond Mult... : Rs. 8,078]]>
+    </line>
+    <line>
+      <![CDATA[price of Orca Diamond Multi ... : Rs. 7,882]]>
+    </line>
+    <line>
+      <![CDATA[price of Cresent Moon Diamon... : Rs. 8,078]]>
+    </line>
+    <line>
+      <![CDATA[price of Spirea Diamond Mult... : Rs. 24,358]]>
+    </line>
+    <line>
+      <![CDATA[price of Ross Diamond Ring : Rs. 17,548]]>
+    </line>
+    <line>
+      <![CDATA[price of Plumeria Diamond Mu... : Rs. 8,670]]>
+    </line>
+    <line>
+      <![CDATA[price of Hearty Eyed Diamond... : Rs. 8,078]]>
+    </line>
+    <line>
+      <![CDATA[price of Visola Nivara Lappa... : Rs. 52,309]]>
+    </line>
+    <line>
+      <![CDATA[price of Leaflet Diamond Mul... : Rs. 8,337]]>
+    </line>
+    <line>
+      <![CDATA[price of Asterism Diamond Mu... : Rs. 17,495]]>
+    </line>
+    <line>
+      <![CDATA[price of Winterize Diamond M... : Rs. 17,337]]>
+    </line>
+    <line>
+      <![CDATA[price of Icy Hearts Diamond ... : Rs. 12,721]]>
+    </line>
+    <line>
+      <![CDATA[price of Entire Diamond Mult... : Rs. 9,975]]>
+    </line>
+    <line>
+      <![CDATA[price of Snowdrops Diamond M... : Rs. 11,021]]>
+    </line>
+    <line>
+      <![CDATA[price of Wand Diamond Multi ... : Rs. 10,431]]>
+    </line>
+    <line>
+      <![CDATA[price of Mizuki Diamond Mult... : Rs. 8,078]]>
+    </line>
+    <line>
+      <![CDATA[price of Orca Diamond Multi ... : Rs. 7,882]]>
+    </line>
+    <line>
+      <![CDATA[price of Cresent Moon Diamon... : Rs. 8,078]]>
+    </line>
+    <line>
+      <![CDATA[price of Spirea Diamond Mult... : Rs. 24,358]]>
+    </line>
+    <line>
+      <![CDATA[price of Abhita Kyra Gold Ea... : Rs. 18,815]]>
+    </line>
+    <line>
+      <![CDATA[price of Plumeria Diamond Mu... : Rs. 8,670]]>
+    </line>
+    <line>
+      <![CDATA[price of Hearty Eyed Diamond... : Rs. 8,078]]>
+    </line>
+    <line>
+      <![CDATA[price of Asmita Kyra Gold Ea... : Rs. 18,815]]>
+    </line>
+    <line>
+      <![CDATA[price of Hrimati Kyra Gold E... : Rs. 14,635]]>
+    </line>
+    <line>
+      <![CDATA[No Item Found]]>
+    </line>
+    <line>
+      <![CDATA[price of Deepali Diamond Eng... : Rs. 27,921]]>
+    </line>
+    <line>
+      <![CDATA[price of Priyak Tushi Kyra G... : Rs. 21,528]]>
+    </line>
+    <line>
+      <![CDATA[price of Ross Diamond Ring : Rs. 17,548]]>
+    </line>
+    <line>
+      <![CDATA[price of Nidhra Tushi Kyra G... : Rs. 29,501]]>
+    </line>
+    <line>
+      <![CDATA[price of Avery Gold Chain : Rs. 26,556]]>
+    </line>
+    <line>
+      <![CDATA[price of Yaksh Diamond Ring : Rs. 43,454]]>
+    </line>
+    <line>
+      <![CDATA[price of Maurice Diamond Ring : Rs. 30,786]]>
+    </line>
+    <line>
+      <![CDATA[price of William Gold Earring : Rs. 8,577]]>
+    </line>
+    <line>
+      <![CDATA[price of Axel Cross Diamond ... : Rs. 15,850]]>
+    </line>
+    <line>
+      <![CDATA[price of Zitin Diamond Ring : Rs. 17,991]]>
+    </line>
+    <line>
+      <![CDATA[price of Heart N Soul Diamon... : Rs. 10,614]]>
+    </line>
+    <line>
+      <![CDATA[price of Neil Diamond Ring : Rs. 19,994]]>
+    </line>
+    <line>
+      <![CDATA[price of Manjori Tushi Kyra ... : Rs. 35,796]]>
+    </line>
+    <line>
+      <![CDATA[price of Asteroids Miracle P... : Rs. 32,126]]>
+    </line>
+    <line>
+      <![CDATA[price of Kabir Diamond Ring : Rs. 19,990]]>
+    </line>
+    <line>
+      <![CDATA[price of Clave Diamond Ring : Rs. 30,385]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-05-04T15:26:04 IST" name="Suite" finished-at="2021-05-04T15:28:12 IST" duration-ms="128265">
+    <groups>
+    </groups>
+    <test started-at="2021-05-04T15:26:04 IST" name="KalyanJ" finished-at="2021-05-04T15:28:12 IST" duration-ms="128265">
+      <class name="com.qa.KalyanJewellers.KJCases">
+        <test-method is-config="true" signature="Setup(java.lang.String,java.lang.String)[pri:0, instance:com.qa.KalyanJewellers.KJCases@333291e3]" started-at="2021-05-04T15:26:04 IST" name="Setup" finished-at="2021-05-04T15:26:33 IST" duration-ms="29035" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.candere.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.KalyanJewellers.KJCases@333291e3]" started-at="2021-05-04T15:26:35 IST" name="SearchTest" data-provider="getData" finished-at="2021-05-04T15:27:07 IST" duration-ms="32616" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chains]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Thrift Gold Chain : Rs. 17,373]]>
+            </line>
+            <line>
+              <![CDATA[price of Lucian Gold Chain : Rs. 28,480]]>
+            </line>
+            <line>
+              <![CDATA[price of Owen Gold Chain : Rs. 54,976]]>
+            </line>
+            <line>
+              <![CDATA[price of Kamal Gold Chain : Rs. 38,571]]>
+            </line>
+            <line>
+              <![CDATA[price of Gianna Gold Chain : Rs. 50,934]]>
+            </line>
+            <line>
+              <![CDATA[price of Sebestian Gold Chain : Rs. 84,321]]>
+            </line>
+            <line>
+              <![CDATA[price of Darrell Gold Chain : Rs. 81,479]]>
+            </line>
+            <line>
+              <![CDATA[price of Darian Gold Chain : Rs. 58,787]]>
+            </line>
+            <line>
+              <![CDATA[price of William Gold Chain : Rs. 1,37,661]]>
+            </line>
+            <line>
+              <![CDATA[price of Frail Trail Gold Chain : Rs. 31,106]]>
+            </line>
+            <line>
+              <![CDATA[price of Highway Gold Chain : Rs. 39,652]]>
+            </line>
+            <line>
+              <![CDATA[price of Cleo Gold Chain : Rs. 1,10,129]]>
+            </line>
+            <line>
+              <![CDATA[price of Sonia Gold Chain : Rs. 81,419]]>
+            </line>
+            <line>
+              <![CDATA[price of Dolores Gold Chain : Rs. 94,869]]>
+            </line>
+            <line>
+              <![CDATA[price of Isabella Gold Chain : Rs. 67,006]]>
+            </line>
+            <line>
+              <![CDATA[price of Victor Gold Chain : Rs. 81,479]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.KalyanJewellers.KJCases@333291e3]" started-at="2021-05-04T15:27:07 IST" name="SearchTest" data-provider="getData" finished-at="2021-05-04T15:27:17 IST" duration-ms="9681" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rings]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Deepali Diamond Eng... : Rs. 27,921]]>
+            </line>
+            <line>
+              <![CDATA[price of Ross Diamond Ring : Rs. 17,548]]>
+            </line>
+            <line>
+              <![CDATA[price of Aaralyn Miracle Pla... : Rs. 12,461]]>
+            </line>
+            <line>
+              <![CDATA[price of Jasleen Kyra Gold Ring : Rs. 6,318]]>
+            </line>
+            <line>
+              <![CDATA[price of Yaksh Diamond Ring : Rs. 43,454]]>
+            </line>
+            <line>
+              <![CDATA[price of Maurice Diamond Ring : Rs. 30,786]]>
+            </line>
+            <line>
+              <![CDATA[price of Axel Cross Diamond ... : Rs. 15,850]]>
+            </line>
+            <line>
+              <![CDATA[price of Ronja Swarovski® Zi... : Rs. 11,048]]>
+            </line>
+            <line>
+              <![CDATA[price of Snuggled Up Diamond... : Rs. 10,938]]>
+            </line>
+            <line>
+              <![CDATA[price of Zitin Diamond Ring : Rs. 17,991]]>
+            </line>
+            <line>
+              <![CDATA[price of Cupidstruck Diamond... : Rs. 14,880]]>
+            </line>
+            <line>
+              <![CDATA[price of Heart N Soul Diamon... : Rs. 10,614]]>
+            </line>
+            <line>
+              <![CDATA[price of Neil Diamond Ring : Rs. 19,994]]>
+            </line>
+            <line>
+              <![CDATA[price of Albert Diamond Ring : Rs. 60,467]]>
+            </line>
+            <line>
+              <![CDATA[price of Kabir Diamond Ring : Rs. 19,990]]>
+            </line>
+            <line>
+              <![CDATA[price of Inverted Diamond Ring : Rs. 17,707]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.KalyanJewellers.KJCases@333291e3]" started-at="2021-05-04T15:27:17 IST" name="SearchTest" data-provider="getData" finished-at="2021-05-04T15:27:35 IST" duration-ms="17912" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Diamond]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Deepali Diamond Eng... : Rs. 27,921]]>
+            </line>
+            <line>
+              <![CDATA[price of Leaflet Diamond Mul... : Rs. 8,337]]>
+            </line>
+            <line>
+              <![CDATA[price of Asterism Diamond Mu... : Rs. 17,495]]>
+            </line>
+            <line>
+              <![CDATA[price of Winterize Diamond M... : Rs. 17,337]]>
+            </line>
+            <line>
+              <![CDATA[price of Icy Hearts Diamond ... : Rs. 12,721]]>
+            </line>
+            <line>
+              <![CDATA[price of Entire Diamond Mult... : Rs. 9,975]]>
+            </line>
+            <line>
+              <![CDATA[price of Snowdrops Diamond M... : Rs. 11,021]]>
+            </line>
+            <line>
+              <![CDATA[price of Wand Diamond Multi ... : Rs. 10,431]]>
+            </line>
+            <line>
+              <![CDATA[price of Mizuki Diamond Mult... : Rs. 8,078]]>
+            </line>
+            <line>
+              <![CDATA[price of Orca Diamond Multi ... : Rs. 7,882]]>
+            </line>
+            <line>
+              <![CDATA[price of Cresent Moon Diamon... : Rs. 8,078]]>
+            </line>
+            <line>
+              <![CDATA[price of Spirea Diamond Mult... : Rs. 24,358]]>
+            </line>
+            <line>
+              <![CDATA[price of Ross Diamond Ring : Rs. 17,548]]>
+            </line>
+            <line>
+              <![CDATA[price of Plumeria Diamond Mu... : Rs. 8,670]]>
+            </line>
+            <line>
+              <![CDATA[price of Hearty Eyed Diamond... : Rs. 8,078]]>
+            </line>
+            <line>
+              <![CDATA[price of Visola Nivara Lappa... : Rs. 52,309]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.KalyanJewellers.KJCases@333291e3]" started-at="2021-05-04T15:27:35 IST" name="SearchTest" data-provider="getData" finished-at="2021-05-04T15:27:44 IST" duration-ms="9213" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Earrings]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Leaflet Diamond Mul... : Rs. 8,337]]>
+            </line>
+            <line>
+              <![CDATA[price of Asterism Diamond Mu... : Rs. 17,495]]>
+            </line>
+            <line>
+              <![CDATA[price of Winterize Diamond M... : Rs. 17,337]]>
+            </line>
+            <line>
+              <![CDATA[price of Icy Hearts Diamond ... : Rs. 12,721]]>
+            </line>
+            <line>
+              <![CDATA[price of Entire Diamond Mult... : Rs. 9,975]]>
+            </line>
+            <line>
+              <![CDATA[price of Snowdrops Diamond M... : Rs. 11,021]]>
+            </line>
+            <line>
+              <![CDATA[price of Wand Diamond Multi ... : Rs. 10,431]]>
+            </line>
+            <line>
+              <![CDATA[price of Mizuki Diamond Mult... : Rs. 8,078]]>
+            </line>
+            <line>
+              <![CDATA[price of Orca Diamond Multi ... : Rs. 7,882]]>
+            </line>
+            <line>
+              <![CDATA[price of Cresent Moon Diamon... : Rs. 8,078]]>
+            </line>
+            <line>
+              <![CDATA[price of Spirea Diamond Mult... : Rs. 24,358]]>
+            </line>
+            <line>
+              <![CDATA[price of Abhita Kyra Gold Ea... : Rs. 18,815]]>
+            </line>
+            <line>
+              <![CDATA[price of Plumeria Diamond Mu... : Rs. 8,670]]>
+            </line>
+            <line>
+              <![CDATA[price of Hearty Eyed Diamond... : Rs. 8,078]]>
+            </line>
+            <line>
+              <![CDATA[price of Asmita Kyra Gold Ea... : Rs. 18,815]]>
+            </line>
+            <line>
+              <![CDATA[price of Hrimati Kyra Gold E... : Rs. 14,635]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.KalyanJewellers.KJCases@333291e3]" started-at="2021-05-04T15:27:44 IST" name="SearchTest" data-provider="getData" finished-at="2021-05-04T15:27:59 IST" duration-ms="15197" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tshirts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[No Item Found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.KalyanJewellers.KJCases@333291e3]" started-at="2021-05-04T15:27:59 IST" name="SearchTest" data-provider="getData" finished-at="2021-05-04T15:28:11 IST" duration-ms="11854" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[*^&&%5$##]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Deepali Diamond Eng... : Rs. 27,921]]>
+            </line>
+            <line>
+              <![CDATA[price of Priyak Tushi Kyra G... : Rs. 21,528]]>
+            </line>
+            <line>
+              <![CDATA[price of Ross Diamond Ring : Rs. 17,548]]>
+            </line>
+            <line>
+              <![CDATA[price of Nidhra Tushi Kyra G... : Rs. 29,501]]>
+            </line>
+            <line>
+              <![CDATA[price of Avery Gold Chain : Rs. 26,556]]>
+            </line>
+            <line>
+              <![CDATA[price of Yaksh Diamond Ring : Rs. 43,454]]>
+            </line>
+            <line>
+              <![CDATA[price of Maurice Diamond Ring : Rs. 30,786]]>
+            </line>
+            <line>
+              <![CDATA[price of William Gold Earring : Rs. 8,577]]>
+            </line>
+            <line>
+              <![CDATA[price of Axel Cross Diamond ... : Rs. 15,850]]>
+            </line>
+            <line>
+              <![CDATA[price of Zitin Diamond Ring : Rs. 17,991]]>
+            </line>
+            <line>
+              <![CDATA[price of Heart N Soul Diamon... : Rs. 10,614]]>
+            </line>
+            <line>
+              <![CDATA[price of Neil Diamond Ring : Rs. 19,994]]>
+            </line>
+            <line>
+              <![CDATA[price of Manjori Tushi Kyra ... : Rs. 35,796]]>
+            </line>
+            <line>
+              <![CDATA[price of Asteroids Miracle P... : Rs. 32,126]]>
+            </line>
+            <line>
+              <![CDATA[price of Kabir Diamond Ring : Rs. 19,990]]>
+            </line>
+            <line>
+              <![CDATA[price of Clave Diamond Ring : Rs. 30,385]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.KalyanJewellers.KJCases@333291e3]" started-at="2021-05-04T15:28:11 IST" name="TearDown" finished-at="2021-05-04T15:28:12 IST" duration-ms="747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.KalyanJewellers.KJCases -->
+    </test> <!-- KalyanJ -->
+  </suite> <!-- Suite -->
+</testng-results>
